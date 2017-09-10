@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+}
+
+.jumbotron {
+	background-color: blue;
+	color: white;
+	padding: 25px 0px 20px 0px;
+}
+
+#currentTime {
+	text-align: center;
+}
+
+h3 {
+	background-color: blue;
+	color: white;
+	padding: 3px 0px 3px 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.table {
+	border: 2px solid blue;
+	margin-top: 0px;
+}
+
+.box {
+	border: 2px solid blue;
+	margin-top: 0px;
+}
+
+.form-group {
+	margin: 5px 20px 0px 10px;
+}
+
+.btn {
+	margin: 15px 20px 5px 10px;
+}
+
+
+
+
